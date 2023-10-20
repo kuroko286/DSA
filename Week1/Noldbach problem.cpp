@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// link bài: https://codeforces.com/problemset/problem/17/A
+
 void solve(int n, int k)
 {
     bool sieve[n + 1];

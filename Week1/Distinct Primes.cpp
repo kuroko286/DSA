@@ -1,5 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
+
+// link bài : https://www.spoj.com/problems/AMR11E/
 int main()
 {
     int n = 3000;            // chọn số đủ lớn để vượt qua test khi n = 1000 (MAX).

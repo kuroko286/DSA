@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// in ra các số nguyên tố trong khoảng [a, b].
 void solve(int a, int b)
 {
 

@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// link bài: https://www.hackerrank.com/challenges/power-of-large-numbers/problem
+
 // tính m1^m2 theo module MOD
 long long solve(long long m1, long long m2)
 {
